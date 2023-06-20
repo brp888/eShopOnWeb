@@ -1,8 +1,4 @@
-﻿// Testing my first PR
-// My first change
-// My second change
-// Fix Feature 1 Bug 1
-using System.Net.Mime;
+﻿using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
 using BlazorAdmin.Services;
